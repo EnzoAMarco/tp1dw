@@ -1,0 +1,14 @@
+
+
+
+
+.section .main{
+  display: inline-block;
+}
+
+.wa{
+  width: 12vh;
+  position: absolute;
+  bottom: 8vh;
+  right: 8vh;
+}

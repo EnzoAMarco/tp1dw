@@ -1,0 +1,72 @@
+*{
+  box-sizing: border-box !important; 
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  list-style: none;
+  color: #0F0F0F;
+}
+
+a:link {
+  color: #0F0F0F;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #0F0F0F;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0F0F0F;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: #0F0F0F;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+body{
+  background-color: #D9D9D9;
+}
+
+.heavy_font{
+  font-weight: 800;
+}
+
+.nav_font{
+  font-size: .9rem;
+}
+
+.box_main{
+  height: 92vh;
+  margin: 4vh;
+  padding: 4vh;
+  border: 1px solid #0F0F0F;
+}
+
+.name_title{
+  font-size: 4rem;
+  font-weight: 250;
+  letter-spacing: -.05em;
+  margin-left: -0.4rem;
+  margin-top: -2.3vh;
+}
+
+.job_title{
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.nav_main{
+  margin-top: 3vh;
+}
+
+.nav_li{
+  padding: 1vh 0;
+}
