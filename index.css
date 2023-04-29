@@ -1,14 +1,20 @@
 
-
-
-
 .section .main{
   display: inline-block;
 }
 
 .wa{
-  width: 12vh;
+  width: 8rem;
   position: absolute;
   bottom: 8vh;
   right: 8vh;
+}
+
+/* responsive */
+@media (max-width: 1250px) {
+  .wa{
+
+    bottom: 4vh;
+    right: 4vh;
+  }
 }

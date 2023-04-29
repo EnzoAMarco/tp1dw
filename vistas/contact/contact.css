@@ -1,0 +1,44 @@
+.font_med_thin{
+  font-size: 3rem;
+  font-weight: 200;
+}
+
+.margin_cont{
+  padding: 1vh 0 0 4vh;
+}
+
+.main_contact{
+  position: absolute;
+  bottom: 8vh;
+  right: 8vh;
+  z-index: 11;
+}
+
+.margin_li{
+  margin: 1vh 0;
+}
+
+.contact_net_dot::before{
+  content: '-';
+}
+
+
+/* responsive */
+@media (max-width: 1000px) {
+
+  .main_contact{
+    position: absolute;
+    bottom: 4vh;
+    right: 4vh;
+  }
+
+}
+
+@media (max-width: 700px) {
+
+  .font_med_thin{
+    font-size: 2rem;
+    font-weight: 200;
+  }
+
+}
