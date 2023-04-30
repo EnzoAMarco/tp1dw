@@ -23,16 +23,13 @@ a:hover {
   color: #0F0F0F;
   background-color: transparent;
   text-decoration: none;
+  opacity: .7;
 }
 
 a:active {
   color: #0F0F0F;
   background-color: transparent;
   text-decoration: none;
-}
-
-a:hover{
-  opacity: .7;
 }
 
 body{
