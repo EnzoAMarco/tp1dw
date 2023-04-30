@@ -31,6 +31,10 @@ a:active {
   text-decoration: none;
 }
 
+a{
+  opacity: .7;
+}
+
 body{
   background-color: #D9D9D9;
   overflow-y: hidden;
